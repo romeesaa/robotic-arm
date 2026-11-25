@@ -9,3 +9,6 @@ i learned about assembly, revolute mates, extrude, fillet and general skectching
 # without assembly
 <img width="710" height="750" alt="image" src="https://github.com/user-attachments/assets/a219143f-0bca-4986-8da3-fb15dc60f5d4" />
 
+
+# struggles
+man it took me forever to figure out the assembly lol because of the revolute mates but yeah eventually got it.
